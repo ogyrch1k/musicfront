@@ -1,0 +1,6 @@
+.myA {
+'decoration-lavender': underline != 'never';
+'decoration-2': underline != 'never';
+'hover:underline': underline == 'hover';
+'underline': underline == 'always';
+}
